@@ -88,9 +88,17 @@ git reset --soft HEAD^1
 ### **RECAP**
 ![](21.PNG)
 ![](22.PNG)
-
-
-
+### **command**
+1. git init
+2. git status
+3. git add <filename>
+4. git commit -m "massages"
+5. git log 
+6. git log --oneline 
+~~~ 
+7.  git restore --staged <filename>
+~~~
+8. git reset --soft HEAD~1
 
 
 
