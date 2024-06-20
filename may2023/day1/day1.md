@@ -185,6 +185,6 @@ operations teams.
 7. continuous release of the software with high quality in very faster way with automation 
 tools.
 ~~~
-                        **THANK YOU**
+   **THANK YOU**
 
 
